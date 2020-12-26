@@ -3,7 +3,7 @@ title: Infinite Jest
 author: David Foster Wallace
 ---
 
-# *Infinite Jest* by David Foster Wallace
+# _Infinite Jest_ by David Foster Wallace
 
 **Location**: 16.62%
 
