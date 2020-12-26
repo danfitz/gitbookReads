@@ -1,5 +1,7 @@
 const R = require('ramda');
-const db = require('better-sqlite3')('KoboReader.sqlite');
+const db = require('better-sqlite3')(
+  '/Volumes/KOBOeReader/.kobo/KoboReader.sqlite'
+);
 const { writeFileSync } = require('fs');
 
 const rows = db
