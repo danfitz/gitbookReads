@@ -51,6 +51,9 @@ author: ${firstNote.author}
     if (note.annotation) {
       markdown += `\n\n**Comments**: ${note.annotation}`;
     }
+    if (idx !== book.length - 1) {
+      markdown += `\n\n---`;
+    }
   });
 
   return markdown;
