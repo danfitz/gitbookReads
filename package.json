@@ -1,0 +1,16 @@
+{
+  "name": "gitbookReads",
+  "version": "1.0.0",
+  "description": "Converts the highlights/annotations in Kobo's internal SQLite file into Markdown for immediate hosting on GitBook",
+  "main": "index.js",
+  "repository": "https://github.com/danfitz/gitbookReads.git",
+  "author": "Dan Fitz <dan@danfitz.com>",
+  "license": "MIT",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "devDependencies": {
+    "better-sqlite3": "^7.1.2",
+    "ramda": "^0.27.1"
+  }
+}
