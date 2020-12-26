@@ -11,8 +11,6 @@ author: David Foster Wallace
 
 > Opponents. It’s all educational. How promising you are as a Student of the Game
 
----
-
 ### Note
 
 16.61992%

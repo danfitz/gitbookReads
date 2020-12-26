@@ -45,9 +45,12 @@ author: ${firstNote.author}
 # *${firstNote.title}* by ${firstNote.author}`;
 
   book.forEach((note, idx) => {
-    markdown += `\n\n### ${note.annotation ? 'Note' : 'Highlight'}`;
-    markdown += `\n\n${(note.chapterProgress * 100).toFixed(5)}%`;
-    markdown += `\n\n> ${note.highlight.replace('\n', '\n> ')}`;
+    markdown += `\n\n### ${note.annotation ? 'Note' : 'Highlight'}
+
+${(note.chapterProgress * 100).toFixed(5)}%
+
+> ${note.highlight.replace('\n', '\n> ')}`;
+
     if (note.annotation) {
       markdown += `\n\n**Comments**: ${note.annotation}`;
     }
