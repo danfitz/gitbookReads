@@ -43,8 +43,8 @@ try {
   const convertToMarkdown = R.map(book => {
     const firstNote = book[0];
     let markdown = `---
-title: ${firstNote.title}
-author: ${firstNote.author}
+title: "${firstNote.title}"
+author: "${firstNote.author}"
 ---
   
 # *${firstNote.title}* by ${firstNote.author}`;
