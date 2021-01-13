@@ -68,7 +68,13 @@ ${(note.chapterProgress * 100).toFixed(5)}%
     return markdown;
   });
 
-  const mdFilename = title => `${title.split(' ').join('-').toLowerCase()}.md`;
+  const mdFilename = title => `${
+    title
+      .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()']/g, "")
+      .split(' ')
+      .join('-')
+      .toLowerCase()
+  }.md`;
 
   const writeToFiles = R.compose(
     // TODO: Refactor this later
