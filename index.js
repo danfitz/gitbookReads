@@ -54,6 +54,7 @@ author: "${firstNote.author}"
       if (note.isHeading) {
         markdown += `\n\n${note.annotation} ${note.highlight.replace('\n', ' ')}`;
       } else {
+        markdown += `\n\n**_${note.annotation ? 'Note' : 'Highlight'}_**`;
         const location = `${(note.chapterProgress * 100).toFixed(5)}%`;
         markdown += `\n\n> ${note.highlight.concat(` *(${location})*`).replace('\n', '\n> ')}`;
 
