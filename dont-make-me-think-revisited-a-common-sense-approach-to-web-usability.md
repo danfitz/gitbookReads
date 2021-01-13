@@ -1,6 +1,6 @@
 ---
-title: Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability
-author: Steve Krug
+title: "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability"
+author: "Steve Krug"
 ---
   
 # *Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability* by Steve Krug

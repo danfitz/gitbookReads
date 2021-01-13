@@ -1,6 +1,6 @@
 ---
-title: A Little History of the World
-author: E. H. Gombrich
+title: "A Little History of the World"
+author: "E. H. Gombrich"
 ---
   
 # *A Little History of the World* by E. H. Gombrich

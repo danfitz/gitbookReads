@@ -1,6 +1,6 @@
 ---
-title: The Design of Everyday Things: Revised and Expanded Edition
-author: Norman, Don
+title: "The Design of Everyday Things: Revised and Expanded Edition"
+author: "Norman, Don"
 ---
   
 # *The Design of Everyday Things: Revised and Expanded Edition* by Norman, Don

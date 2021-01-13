@@ -1,6 +1,6 @@
 ---
-title: Infinite Jest
-author: David Foster Wallace
+title: "Infinite Jest"
+author: "David Foster Wallace"
 ---
   
 # *Infinite Jest* by David Foster Wallace
