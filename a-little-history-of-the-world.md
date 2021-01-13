@@ -3,9 +3,10 @@ title: "A Little History of the World"
 author: "E. H. Gombrich"
 ---
   
-# *A Little History of the World* by E. H. Gombrich
+# *A Little History of the World*
+`Author: E. H. Gombrich`
 
-### Note
+**_Note_**
   
 10.70340%
   
@@ -14,20 +15,20 @@ author: "E. H. Gombrich"
 
 **Comments**: This appears to b a running theme for many ancient societies: that the old is sacred and change is bad.
 
-### Highlight
+**_Highlight_**
   
 12.23240%
   
 > Today we know that these are the stars that are close to us, and that they turn with the earth around the sun. They are called planets. But the ancient Babylonians and Assyrians couldn’t know that, and so they thought some strange magic must lie behind it. They gave a name to each wandering star and observed them constantly, convinced that they were powerful beings whose positions influenced the destinies of men, and that by studying them they would be able to predict the future. 
 
-### Highlight
+**_Highlight_**
   
 12.23240%
   
 > In those days people thought that the earth was a flat disk, and that the sky was a sort of hollow sphere cupped over the earth, that turned over it once each day. So it must have seemed miraculous to them that, although most of the stars stayed fixed to the heavens, some seemed, as it were, only loosely fastened, and able to move about.
 > 
 
-### Note
+**_Note_**
   
 13.14985%
   
@@ -36,7 +37,7 @@ author: "E. H. Gombrich"
 
 **Comments**: These are the Jews! Explains why the Jews are always struggling in history.
 
-### Note
+**_Note_**
   
 17.12540%
   
@@ -44,7 +45,7 @@ author: "E. H. Gombrich"
 
 **Comments**: It feels like this period of history (the Bronze Age?) is full of people getting conquered, the conquered becoming tired of beng conquered and then rebelling, and finally deciding to do some conquering of their own, ad nauseum.
 
-### Note
+**_Note_**
   
 17.43120%
   
@@ -52,7 +53,7 @@ author: "E. H. Gombrich"
 
 **Comments**: How different might history have been if the Persian king Darius had gotten those ships to Greece? It's interesting how fortune can play a role in the course of humanity.
 
-### Note
+**_Note_**
   
 18.65440%
   
@@ -60,7 +61,7 @@ author: "E. H. Gombrich"
 
 **Comments**: That is a very intriguing interpretation: that the frivolousness of public opinion can be a side effect of a propenity to change and try new things. That gives me a sense of hope about public opinion.
 
-### Note
+**_Note_**
   
 19.57190%
   
@@ -68,7 +69,7 @@ author: "E. H. Gombrich"
 
 **Comments**: This is like a macro example of how human development changes dramatically when a person acts out of fear and pain. Not worrying makes you explorative, while worrying makes you defensive.
 
-### Note
+**_Note_**
   
 21.10090%
   
@@ -76,7 +77,7 @@ author: "E. H. Gombrich"
 
 **Comments**: The suggestion here is that the caste system is a result of political control. A way to separate the slavers from the enslaved.
 
-### Note
+**_Note_**
   
 22.93580%
   
@@ -84,13 +85,13 @@ author: "E. H. Gombrich"
 
 **Comments**: This approach to the written word seems to make learning a language more difficult, but it also means that written communication can be more widely disseminated.
 
-### Highlight
+**_Highlight_**
   
 22.93580%
   
 > Chinese writing is special. You can read and understand it even if you don’t know a single word of the spoken language.
 
-### Note
+**_Note_**
   
 23.54740%
   
@@ -98,20 +99,20 @@ author: "E. H. Gombrich"
 
 **Comments**: This looks like the argument that customs are evolutionary pre-selected: they exist and get passed on because they work well, so we ought to respect them.
 
-### Highlight
+**_Highlight_**
   
 23.54740%
   
 > Concern for our fellow human beings and sympathy for the misfortunes of others are inborn sentiments. All we need do is to make sure we do not lose them. 
 
-### Highlight
+**_Highlight_**
   
 23.54740%
   
 > for Confucius, the family, with its brotherly and sisterly love and respect for parents, was the most important thing of all. He called it ‘the root of humanity’.
 > 
 
-### Note
+**_Note_**
   
 29.96940%
   
@@ -120,7 +121,7 @@ author: "E. H. Gombrich"
 
 **Comments**: This is so interesting. So different from how power was acquired in many other lands.
 
-### Note
+**_Note_**
   
 36.39140%
   
@@ -128,7 +129,7 @@ author: "E. H. Gombrich"
 
 **Comments**: The Great Wall of China worked so well that the tribesmen turned to the West. Crazy!
 
-### Note
+**_Note_**
   
 37.30890%
   
@@ -137,7 +138,7 @@ author: "E. H. Gombrich"
 
 **Comments**: So Rome is the last society deemed part of "anitiquity". Why?
 
-### Note
+**_Note_**
   
 38.53210%
   
@@ -146,13 +147,13 @@ author: "E. H. Gombrich"
 
 **Comments**: Yet another group that kept alive Greek traditions.
 
-### Highlight
+**_Highlight_**
   
 38.53210%
   
 > But in the West, in Italy, there was a holy man who, like the Buddha, could find no inner calm in the solitary life of a penitent. He was a monk named Benedict, meaning the Blessed One. He was convinced that penitence wasn’t all that Christ wanted. One must not only become good, one must do good.
 
-### Note
+**_Note_**
   
 39.14370%
   
@@ -160,7 +161,7 @@ author: "E. H. Gombrich"
 
 **Comments**: Sounds like missionairies.
 
-### Note
+**_Note_**
   
 40.97860%
   
@@ -168,7 +169,7 @@ author: "E. H. Gombrich"
 
 **Comments**: This seems to end up being a battle cry or something because Muslim forces start invading acros Asia and Europe and Africa, becoming a political power in their own right.
 
-### Note
+**_Note_**
   
 43.73089%
   
@@ -177,7 +178,7 @@ author: "E. H. Gombrich"
 
 **Comments**: It's as if the borders of today get carved out through the decisions of these powerful kings and emperors.
 
-### Note
+**_Note_**
   
 44.64832%
   
@@ -186,7 +187,7 @@ author: "E. H. Gombrich"
 
 **Comments**: This is an interesting way of maintaining power over your lords: maintain ownership of their properties.
 
-### Note
+**_Note_**
   
 46.17737%
   
@@ -194,14 +195,14 @@ author: "E. H. Gombrich"
 
 **Comments**: So title is directly tied to ability to afford certain resources.
 
-### Highlight
+**_Highlight_**
   
 46.17737%
   
 > knights. Only peasants and poor servants, farm-lads and labourers who went to war on foot weren’t knights.
 > 
 
-### Note
+**_Note_**
   
 46.78899%
   
@@ -210,7 +211,7 @@ author: "E. H. Gombrich"
 
 **Comments**: Power divides
 
-### Note
+**_Note_**
   
 46.78899%
   
@@ -218,7 +219,7 @@ author: "E. H. Gombrich"
 
 **Comments**: So squires and pages were relatively well off too! I thought they were like interns.
 
-### Note
+**_Note_**
   
 47.70642%
   
@@ -228,7 +229,7 @@ author: "E. H. Gombrich"
 
 **Comments**: Whoa. So the Crusades was an attempt to take control of Jerusalem from Muslims!
 
-### Note
+**_Note_**
   
 48.01223%
   
@@ -236,13 +237,13 @@ author: "E. H. Gombrich"
 
 **Comments**: Always nasty behaviour in the name of what is "right".
 
-### Highlight
+**_Highlight_**
   
 48.01223%
   
 > In the distant Orient the Christians discovered Arab culture – their buildings, their sense of beauty and their learning. And within a hundred years of the First Crusade, the writings of Alexander the Great’s teacher, the books of Aristotle, were translated from Arabic into Latin and eagerly read and studied in Italy, France, Germany and England. 
 
-### Highlight
+**_Highlight_**
   
 48.01223%
   

@@ -47,13 +47,14 @@ title: "${firstNote.title}"
 author: "${firstNote.author}"
 ---
   
-# *${firstNote.title}* by ${firstNote.author}`;
+# *${firstNote.title}*
+\`Author: ${firstNote.author}\``;
 
     book.forEach((note, idx) => {
       if (note.isHeading) {
         markdown += `\n\n${note.annotation} ${note.highlight.replace('\n', ' ')}`;
       } else {
-        markdown += `\n\n### ${note.annotation ? 'Note' : 'Highlight'}
+        markdown += `\n\n**_${note.annotation ? 'Note' : 'Highlight'}_**
   
 ${(note.chapterProgress * 100).toFixed(5)}%
   

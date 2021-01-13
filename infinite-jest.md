@@ -3,21 +3,22 @@ title: "Infinite Jest"
 author: "David Foster Wallace"
 ---
   
-# *Infinite Jest* by David Foster Wallace
+# *Infinite Jest*
+`Author: David Foster Wallace`
 
-### Highlight
+**_Highlight_**
   
 14.23562%
   
 > 
 
-### Highlight
+**_Highlight_**
   
 16.61990%
   
 > Opponents. It’s all educational. How promising you are as a Student of the Game
 
-### Note
+**_Note_**
   
 16.61992%
   
@@ -25,7 +26,7 @@ author: "David Foster Wallace"
 
 **Comments**: I love this idea! It's definitely a very nice thought to think about... But what about people who have no help?
 
-### Highlight
+**_Highlight_**
   
 17.39130%
   
