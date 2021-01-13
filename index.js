@@ -33,6 +33,7 @@ try {
       }
       if (row.annotation) {
         row.annotation = row.annotation.trim();
+        row.isHeading = /^#{1,}$/.test(row.annotation);
       }
       return row;
     })
@@ -49,14 +50,18 @@ author: ${firstNote.author}
 # *${firstNote.title}* by ${firstNote.author}`;
 
     book.forEach((note, idx) => {
-      markdown += `\n\n### ${note.annotation ? 'Note' : 'Highlight'}
+      if (note.isHeading) {
+        markdown += `\n\n${note.annotation} ${note.highlight.replace('\n', ' ')}`;
+      } else {
+        markdown += `\n\n### ${note.annotation ? 'Note' : 'Highlight'}
   
 ${(note.chapterProgress * 100).toFixed(5)}%
   
 > ${note.highlight.replace('\n', '\n> ')}`;
 
-      if (note.annotation) {
-        markdown += `\n\n**Comments**: ${note.annotation}`;
+        if (note.annotation) {
+          markdown += `\n\n**Comments**: ${note.annotation}`;
+        }
       }
     });
 

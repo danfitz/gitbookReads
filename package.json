@@ -6,6 +6,9 @@
   "repository": "https://github.com/danfitz/gitbookReads.git",
   "author": "Dan Fitz <dan@danfitz.com>",
   "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
   "scripts": {
     "convert": "node index.js"
   },
