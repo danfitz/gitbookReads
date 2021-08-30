@@ -36,6 +36,13 @@ author: "Steve Krug"
 
 * **Comments**: The guiding definition of "usability".
 
+**_Highlight_**
+
+> 
+>  “Don’t make me think!”
+ For as long I can remember, I’ve been telling people that this is my first law of usability.
+ *(13.51350%)*
+
 ## Don’t make me think! 
 
 **_Highlight_**
@@ -46,9 +53,13 @@ author: "Steve Krug"
 **_Highlight_**
 
 > 
->  “Don’t make me think!”
- For as long I can remember, I’ve been telling people that this is my first law of usability.
- *(13.51350%)*
+>  But when I’m looking at a page that makes me think, all the thought balloons over my head have question marks in them.
+ 
+ Thinking
+ 
+ 
+ When you’re creating a site, your job is to get rid of the question marks.
+ *(14.18920%)*
 
 **_Note_**
 
@@ -67,17 +78,6 @@ author: "Steve Krug"
 > Take names, for example. Typical culprits are cute or clever names, marketing-induced names, company-specific names, and unfamiliar technical names.
 >  *(14.18920%)*
 
-**_Highlight_**
-
-> 
->  But when I’m looking at a page that makes me think, all the thought balloons over my head have question marks in them.
- 
- Thinking
- 
- 
- When you’re creating a site, your job is to get rid of the question marks.
- *(14.18920%)*
-
 **_Note_**
 
 > Sometimes, though, particularly if you’re doing something original or groundbreaking or something that’s inherently complicated, you have to settle for self-explanatory. On a self-explanatory page, it takes a little thought to “get it”—but only a little. *(14.86490%)*
@@ -93,6 +93,15 @@ author: "Steve Krug"
 
 **_Highlight_**
 
+> Why do we scan? We’re usually on a mission. Most Web use involves trying to get something done, and usually done quickly. *(16.89190%)*
+
+**_Highlight_**
+
+> When we’re creating sites, we act as though people are going to pore over each page, reading all of our carefully crafted text, figuring out how we’ve organized things, and weighing their options before deciding which link to click.
+>  What they actually do most of the time (if we’re lucky) is glance at each new page, scan some of the text, and click on the first link that catches their interest *(16.89190%)*
+
+**_Highlight_**
+
 > One of the very few well-documented facts about Web use is that people tend to spend very little time reading most Web pages. Instead, we scan (or skim) them, looking for words or phrases that catch our eye.
 >  *(16.89190%)*
 
@@ -101,12 +110,7 @@ author: "Steve Krug"
 
 **_Highlight_**
 
-> Why do we scan? We’re usually on a mission. Most Web use involves trying to get something done, and usually done quickly. *(16.89190%)*
-
-**_Highlight_**
-
-> When we’re creating sites, we act as though people are going to pore over each page, reading all of our carefully crafted text, figuring out how we’ve organized things, and weighing their options before deciding which link to click.
->  What they actually do most of the time (if we’re lucky) is glance at each new page, scan some of the text, and click on the first link that catches their interest *(16.89190%)*
+>  We’re good at it. It’s a basic skill: When you learn to read, you also learn to scan. We’ve been scanning newspapers, magazines, and books—or if you’re under 25, probably reddit, Tumblr, or Facebook—all our lives *(17.56760%)*
 
 **_Highlight_**
 
@@ -118,10 +122,6 @@ author: "Steve Krug"
 >  *(17.56760%)*
 
 * **Comments**: This is a good summary of what we tend to scan for.
-
-**_Highlight_**
-
->  We’re good at it. It’s a basic skill: When you learn to read, you also learn to scan. We’ve been scanning newspapers, magazines, and books—or if you’re under 25, probably reddit, Tumblr, or Facebook—all our lives *(17.56760%)*
 
 **_Highlight_**
 
@@ -183,16 +183,16 @@ author: "Steve Krug"
 
 > Things are “nested” visually to show what’s part of what. *(22.97300%)*
 
-**_Highlight_**
-
-> Dividing the page into clearly defined areas is important because it allows users to decide quickly which areas of the page to focus on and which areas they can safely ignore. Eye-tracking studies of Web page scanning suggest that users decide very quickly in their initial glances which parts of the page are likely to have useful information and then rarely look at the other parts—almost as though they weren’t there. *(23.64860%)*
-
 **_Note_**
 
 > A good visual hierarchy saves us work by preprocessing the page for us, organizing and prioritizing its contents in a way that we can grasp almost instantly.
 >  *(23.64860%)*
 
 * **Comments**: This is the selling point of visual hierarchy: cognitive offloading.
+
+**_Highlight_**
+
+> Dividing the page into clearly defined areas is important because it allows users to decide quickly which areas of the page to focus on and which areas they can safely ignore. Eye-tracking studies of Web page scanning suggest that users decide very quickly in their initial glances which parts of the page are likely to have useful information and then rarely look at the other parts—almost as though they weren’t there. *(23.64860%)*
 
 **_Highlight_**
 
@@ -294,6 +294,14 @@ author: "Steve Krug"
 
 **_Highlight_**
 
+> Eventually, if you can’t find what you’re looking for, you’ll leave. This is as true on a Web site as it is at Sears. *(33.78380%)*
+
+**_Highlight_**
+
+> When we’re exploring the Web, in some ways it even feels like we’re moving around in a physical space. *(33.78380%)*
+
+**_Highlight_**
+
 > No sense of location. In physical spaces, as we move around we accumulate knowledge about the space. *(33.78380%)*
 
 **_Highlight_**
@@ -307,14 +315,6 @@ author: "Steve Krug"
 **_Highlight_**
 
 >  No sense of scale. Even after we’ve used a Web site extensively, unless it’s a very small site we tend to have very little sense of how big it is *(33.78380%)*
-
-**_Highlight_**
-
-> Eventually, if you can’t find what you’re looking for, you’ll leave. This is as true on a Web site as it is at Sears. *(33.78380%)*
-
-**_Highlight_**
-
-> When we’re exploring the Web, in some ways it even feels like we’re moving around in a physical space. *(33.78380%)*
 
 **_Highlight_**
 
@@ -350,13 +350,6 @@ author: "Steve Krug"
 
 * **Comments**: Helpful analogy!
 
-**_Note_**
-
-> Too-subtle visual cues are actually a very common problem. Designers love subtle cues, because subtlety is one of the traits of sophisticated design. But Web users are generally in such a hurry that they routinely miss subtle cues.
->  *(39.86490%)*
-
-* **Comments**: I need to really put this to practice!
-
 **_Highlight_**
 
 > One of the ways navigation can counteract the Web’s inherent “lost in space” feeling is by showing me where I am in the scheme of things, the same way that a “You are here” indicator does on the map in a shopping mall—or a National Park.
@@ -366,6 +359,19 @@ author: "Steve Krug"
 
 > On the Web, this is accomplished by highlighting my current location in whatever navigation bars, lists, or menus appear on the page.
 >  *(39.86490%)*
+
+**_Note_**
+
+> Too-subtle visual cues are actually a very common problem. Designers love subtle cues, because subtlety is one of the traits of sophisticated design. But Web users are generally in such a hurry that they routinely miss subtle cues.
+>  *(39.86490%)*
+
+* **Comments**: I need to really put this to practice!
+
+**_Note_**
+
+> Imagine that you’ve been blindfolded and locked in the trunk of a car, then driven around for a while and dumped on a page somewhere deep in the bowels of a Web site. If the page is well designed, when your vision clears you should be able to answer these questions without hesitation: What site is this? (Site ID) What page am I on? (Page name) What are the major sections of this site? (Sections) What are my options at this level? (Local navigation) Where am I in the scheme of things? (“You are here” indicators) *(41.21620%)*
+
+* **Comments**: This is known as the trunk test. Useful!
 
 **_Note_**
 
@@ -381,12 +387,6 @@ author: "Steve Krug"
 >  For tabs to work to full effect, the graphics have to create the visual illusion that the active tab is in front of the other tabs. This is the main thing that makes them feel like tabs—even more than the distinctive tab shape.
  To create this illusion, the active tab needs to be a different color or contrasting shade, and it has to physically connect with the space below it. This is what makes the active tab “pop” to the front.
  *(41.21620%)*
-
-**_Note_**
-
-> Imagine that you’ve been blindfolded and locked in the trunk of a car, then driven around for a while and dumped on a page somewhere deep in the bowels of a Web site. If the page is well designed, when your vision clears you should be able to answer these questions without hesitation: What site is this? (Site ID) What page am I on? (Page name) What are the major sections of this site? (Sections) What are my options at this level? (Local navigation) Where am I in the scheme of things? (“You are here” indicators) *(41.21620%)*
-
-* **Comments**: This is known as the trunk test. Useful!
 
 **_Highlight_**
 
@@ -427,12 +427,12 @@ author: "Steve Krug"
 
 **_Highlight_**
 
-> 
->  On a Web site, the tagline appears right below, above, or next to the Site ID. *(46.62160%)*
+>  tagline is a pithy phrase that characterizes the whole enterprise, summing up what it is and what makes it great. *(46.62160%)*
 
 **_Highlight_**
 
->  tagline is a pithy phrase that characterizes the whole enterprise, summing up what it is and what makes it great. *(46.62160%)*
+> 
+>  On a Web site, the tagline appears right below, above, or next to the Site ID. *(46.62160%)*
 
 **_Highlight_**
 
@@ -453,6 +453,10 @@ author: "Steve Krug"
 
 **_Highlight_**
 
+> All of us who work on Web sites have one thing in common—we’re also Web users. And like all Web users, we tend to have strong feelings about what we like and don’t like about Web sites. *(50.00000%)*
+
+**_Highlight_**
+
 > 
 >  I usually call these endless discussions “religious debates,” because they have a lot in common with most discussions of religion and politics: They consist largely of people expressing strongly held personal beliefs about things that can’t be proven *(50.00000%)*
 
@@ -468,10 +472,6 @@ author: "Steve Krug"
 > 
 >  Left to their own devices, Web teams aren’t notoriously successful at making decisions about usability questions. Most teams end up spending a lot of precious time rehashing the same issues over and over.
  *(50.00000%)*
-
-**_Highlight_**
-
-> All of us who work on Web sites have one thing in common—we’re also Web users. And like all Web users, we tend to have strong feelings about what we like and don’t like about Web sites. *(50.00000%)*
 
 **_Highlight_**
 
@@ -496,6 +496,11 @@ author: "Steve Krug"
 **_Highlight_**
 
 > 
+>  As soon as the clash of personal and professional opinions results in a stalemate, the conversation usually turns to finding some way (whether it’s the opinion of an outside expert, published research, a survey, or focus groups) to determine what most users like or don’t like—to figure out what the Average Web User is really like. *(52.02700%)*
+
+**_Highlight_**
+
+> 
 >  The problem is there are no simple “right” answers for most Web design questions (at least not for the important ones). What works is good, integrated design that fills a need—carefully thought out, well executed, and tested. *(52.02700%)*
 
 **_Highlight_**
@@ -503,11 +508,6 @@ author: "Steve Krug"
 > all of the time I’ve spent watching people use the Web has led me to the opposite conclusion:
 >  ALL WEB USERS ARE UNIQUE AND ALL WEB USE IS BASICALLY IDIOSYNCRATIC
  *(52.02700%)*
-
-**_Highlight_**
-
-> 
->  As soon as the clash of personal and professional opinions results in a stalemate, the conversation usually turns to finding some way (whether it’s the opinion of an outside expert, published research, a survey, or focus groups) to determine what most users like or don’t like—to figure out what the Average Web User is really like. *(52.02700%)*
 
 **_Note_**
 
@@ -605,6 +605,12 @@ author: "Steve Krug"
 
 **_Highlight_**
 
+> 
+>  One way to deal with a smaller living space is to leave things out: Create a mobile site that is a subset of the full site. Which, of course, raises a tricky question: Which parts do you leave out?
+ *(68.24320%)*
+
+**_Highlight_**
+
 > People are just as likely to be using their mobile devices while sitting on the couch at home, and they want (and expect) to be able to do everything. Or at least, everybody wants to do some things, and if you add them all up it amounts to everything.
 >  If you’re going to include everything, you have to pay even more attention to prioritizing.
  *(68.24320%)*
@@ -612,12 +618,6 @@ author: "Steve Krug"
 **_Highlight_**
 
 > The most obvious thing about mobile screens is that they’re small. *(68.24320%)*
-
-**_Highlight_**
-
-> 
->  One way to deal with a smaller living space is to leave things out: Create a mobile site that is a subset of the full site. Which, of course, raises a tricky question: Which parts do you leave out?
- *(68.24320%)*
 
 **_Note_**
 
@@ -642,6 +642,11 @@ author: "Steve Krug"
 
 **_Highlight_**
 
+> 
+>  Affordances require visual distinctions. But the recent trend in interface design (which may have waned by the time you read this) has moved in exactly the opposite direction: removing visual distinctions and “flattening” the appearance of interface elements. *(70.94590%)*
+
+**_Highlight_**
+
 > many useful interface features that depended on hover are no longer available, like tool tips, buttons that change shape or color to indicate that they’re clickable, and menus that drop down to reveal their contents without forcing you to make a choice.
 >  As a designer, you need to be aware that these elements don’t exist for mobile users and try to find ways to replace them. *(70.94590%)*
 
@@ -649,11 +654,6 @@ author: "Steve Krug"
 
 > You can do all the Flat design you want (you may have to, it may be forced on you), but make sure you’re using all of the remaining dimensions to compensate for what you lose.
 >  *(70.94590%)*
-
-**_Highlight_**
-
-> 
->  Affordances require visual distinctions. But the recent trend in interface design (which may have waned by the time you read this) has moved in exactly the opposite direction: removing visual distinctions and “flattening” the appearance of interface elements. *(70.94590%)*
 
 **_Note_**
 
@@ -716,6 +716,8 @@ author: "Steve Krug"
 
 > Be upfront about things like shipping costs, hotel daily parking fees, service outages—anything you’d rather not be upfront about. *(79.72970%)*
 
+## Accessibility
+
 **_Highlight_**
 
 > And yet almost every site I go to still fails my three-second accessibility test—increasing the size of the type.1
@@ -726,19 +728,17 @@ author: "Steve Krug"
 > Unless you’re going to make a blanket decision that people with disabilities aren’t part of your audience, you really can’t say your site is usable unless it’s accessible.
 >  *(81.75680%)*
 
-## Accessibility
-
 **_Note_**
 
 > : Making sites more usable for “the rest of us” is one of the most effective ways to make them more effective for people with disabilities.
 > 
- If something confuses most people who use your site, it’s almost certain to confuse users who have accessibility issues.  *(84.45946%)*
+ If something confuses most people who use your site, it’s almost certain to confuse users who have accessibility issues.  *(84.45950%)*
 
 * **Comments**: Usability improvements ARE accessibility improvements as well.
 
 **_Note_**
 
-> Most blind users are just as impatient as most sighted users. They want to get the information they need as quickly as possible. They do not listen to every word on the page—just as sighted users do not read every word. They “scan with their ears,” listening to just enough to decide whether to listen further. *(85.13514%)*
+> Most blind users are just as impatient as most sighted users. They want to get the information they need as quickly as possible. They do not listen to every word on the page—just as sighted users do not read every word. They “scan with their ears,” listening to just enough to decide whether to listen further. *(85.13510%)*
 
 * **Comments**: I love how this squares my experiences with screen reader users with the idea in this book that users scan pages.
 
@@ -753,16 +753,16 @@ author: "Steve Krug"
 
 **_Highlight_**
 
->  Don’t use small, low-contrast type. You can use large, low-contrast type, or small (well, smallish) high-contrast type. But never use small, low-contrast type. (And try to stay away from the other two, too.) *(91.89189%)*
+>  Don’t use small, low-contrast type. You can use large, low-contrast type, or small (well, smallish) high-contrast type. But never use small, low-contrast type. (And try to stay away from the other two, too.) *(91.89190%)*
 
 **_Highlight_**
 
-> Don’t put labels inside form fields. Yes, it can be very tempting, especially on cramped mobile screens. But don’t do it unless all of these are true: The form is exceptionally simple, the labels disappear when you start typing and reappear if you empty the field, the labels can never be confused with answers, and there’s no possibility that you’ll end up submitting the labels along with what you type  *(91.89189%)*
+> Don’t put labels inside form fields. Yes, it can be very tempting, especially on cramped mobile screens. But don’t do it unless all of these are true: The form is exceptionally simple, the labels disappear when you start typing and reappear if you empty the field, the labels can never be confused with answers, and there’s no possibility that you’ll end up submitting the labels along with what you type  *(91.89190%)*
 
 **_Highlight_**
 
-> Preserve the distinction between visited and unvisited text links. By default, Web browsers display links to pages that you’ve already opened in a different color so you can see which options you’ve already tried. *(91.89189%)*
+> Preserve the distinction between visited and unvisited text links. By default, Web browsers display links to pages that you’ve already opened in a different color so you can see which options you’ve already tried. *(91.89190%)*
 
 **_Highlight_**
 
-> Don’t float headings between paragraphs. Headings should be closer to the text that follows them than the text that precedes them.  *(92.56757%)*
+> Don’t float headings between paragraphs. Headings should be closer to the text that follows them than the text that precedes them.  *(92.56760%)*
